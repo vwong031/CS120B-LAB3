@@ -1,5 +1,5 @@
 /*
-* Name & Email: Valerie Wong (vwong031@ucr.edu)
+* Name & Email: Valerie Wong
 * Discussion Section: 021
 * Assignment: Lab 3 Exercise 1
 * Exercise Description: The potentiometer will light up 0-4 LEDs based on the strength of the reading. 
